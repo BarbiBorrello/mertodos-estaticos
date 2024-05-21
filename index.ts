@@ -15,6 +15,7 @@ function main() {
   const miPeli = new Peli("Una Peli");
   console.log(miPeli.getTitle());
   console.log ("soy el cambio n° 2");
+  console.log ("soy el cambio n° 3");
 }
 
 main();
