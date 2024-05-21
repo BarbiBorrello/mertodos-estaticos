@@ -14,6 +14,7 @@ class Peli {
 function main() {
   const miPeli = new Peli("Una Peli");
   console.log(miPeli.getTitle());
+  console.log ("soy el cambio n° 2");
 }
 
 main();
